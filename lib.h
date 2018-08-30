@@ -2,7 +2,6 @@
  * lib.h
  *
  *  Created on: 28.08.2018
- *      Author: szymon
  */
 
 #ifndef LIB_H_
